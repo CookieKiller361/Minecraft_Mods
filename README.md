@@ -1,3 +1,5 @@
+# Some Informations:
+
 + To Coonect to the Minecraft server you have to use the Prism launcher or make your own Profile with a mod Loader!
 
 + Prism Launcher is a Open Source Alternative for the Original Minacraft Launcher.
