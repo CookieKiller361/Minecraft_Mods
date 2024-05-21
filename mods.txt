@@ -1,0 +1,6 @@
+wget https://www.curseforge.com/minecraft/mc-mods/falling-tree/download/5342823
+wget https://www.curseforge.com/minecraft/mc-mods/journeymap/download/5338162
+wget https://www.curseforge.com/minecraft/mc-mods/clumps/download/5322080
+wget https://www.curseforge.com/minecraft/mc-mods/jade/download/5328462
+wget https://www.curseforge.com/minecraft/mc-mods/appleskin/files/5347123
+
