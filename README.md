@@ -18,3 +18,12 @@ ___
 4. Download the Modpack.zip.
 5. Drag and Drop the Modpack.zip into the Prism Launcher.
 6. Double klick on the "Server Test Modpack" icon or single click and hit start, to start the Game, have fun!
+
+___
+
+# Inegrated Mods:
++ Clumps
++ Falling Tree
++ Jade
++ Apple Skin
++ journey Map
