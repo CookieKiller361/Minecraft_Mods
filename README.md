@@ -9,3 +9,12 @@ you need the modpack to connect to the server, you can find the mod pack in this
 to install the modpack you have to drag the modpack.zip into the Prism Launcher
 
 To use this version of Minecraft you need to install java Version 21 (JDK 21) - Link here: https://www.oracle.com/java/technologies/downloads/#jdk21-windows
+
+___ 
+# installation 
+1. Download and isntall Java 21
+2. Download and Install Prism Launcher
+3. Add Your Minecraft Account to the Launcher (Mojang or Microsoft)
+4. Download the Modpack.zip.
+5. Drag and Drop the Modpack.zip into the Prism Launcher.
+6. Double klick on the "Server Test Modpack" icon or single click and hit start, to start the Game, have fun!
